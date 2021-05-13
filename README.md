@@ -1,8 +1,6 @@
-👋🏽 Hi, I'm @jsrubianoj
+👋🏽 Hi, I'm Sebastián Rubiano, a Civil engineer from Colombia who likes to code. A LOT!
 
-🎓 I graduated with a Bachelor's of Civil Engineering (Apr 2016)
-
-👀 I’m interested in Web Development, Specially Front-End, Data Science, GIS and BIM Applications.
+👀 I’m interested in Web Development, especially Front-End, Data Science, GIS and BIM Applications.
 
 🌱 I’m currently learning JavaScript and Python with applications to Data Science and GIS Mapping. I'm also learning REVIT.
 

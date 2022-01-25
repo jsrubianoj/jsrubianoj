@@ -6,5 +6,5 @@
 
 💞️ I’m looking to collaborate on Data Science and Web Development projects.
 
-📫 Feel free to reach me in [LinkedIn](https://www.linkedin.com/in/jsrubianoj/)
+📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jsrubianoj/)
 

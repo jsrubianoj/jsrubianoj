@@ -1,6 +1,6 @@
-👋🏽 Hi, I'm Sebastián Rubiano, a Civil engineer from Colombia who likes to code. A LOT!
+👋🏽 Hi, I'm Sebastián Rubiano, a Civil engineer from Colombia interested in data science and web development.
 
-👀 I’m interested in Web Development, especially Front-End, Data Science, GIS and BIM Applications.
+👀 Especially interested in back-end development, Data Science.
 
 🌱 I’m currently learning JavaScript and Python with applications to Data Science and GIS Mapping. I'm also learning REVIT.
 

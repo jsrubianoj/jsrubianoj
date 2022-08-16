@@ -2,7 +2,7 @@
 
 👀 Especially interested in back-end development, Data Science.
 
-🌱 I’m currently learning JavaScript and Python with applications to Data Science and GIS Mapping. I'm also learning REVIT.
+🌱 I’m currently working with Python building automation scripts to speed up processes using the [Forge API](https://forge.autodesk.com/developer/documentation) and the [BIMTrack API](https://api.bimtrackapp.co/swagger/ui/index#/).
 
 💞️ I’m looking to collaborate on Data Science and Web Development projects.
 
